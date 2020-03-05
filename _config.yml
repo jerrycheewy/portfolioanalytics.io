@@ -1,2 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 title: Hello to jerry's aRticles!
+
+theme: jekyll-theme-minimal
